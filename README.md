@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @andreseirafi
 - 👀 I’m interested in the next generation of web technologies
-- 🌱 I’m currently learning every hyped technology and js-lib
+- 🌱 I spend time with almost every hyped web-technology - and make the best out of it.  
